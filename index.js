@@ -12,4 +12,4 @@ client.on('guildMemberAdd', member => {
 })
 
 //--------get token
-client.login('NjMwMDc4NTI0OTQ1OTg5NjMy.Xbxr2Q.S7NQKEqnZ-0ZXw4dKWxBFAXVvsk');
+client.login('NjMwMDc4NTI0OTQ1OTg5NjMy.XbxypQ.xJFyt59lE131BHZErByyZV1Qt5A');
